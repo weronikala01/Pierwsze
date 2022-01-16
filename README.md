@@ -1,0 +1,2 @@
+# Pierwsze
+Repozytorium GirlsGo IT
